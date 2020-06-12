@@ -24,8 +24,6 @@ class GoodHashUser {
 		this.username = username;
 	}
 
-
-
 	@Override
 	public int hashCode() {
 		
